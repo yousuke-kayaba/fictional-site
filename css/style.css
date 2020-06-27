@@ -2,14 +2,6 @@
     margin: 0;
 }
 
-#particle {
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    width: 100vw;
-}
-
 .header-title {
     font-size: 1.5rem;
 }
@@ -97,7 +89,6 @@ header{
 .tel {
     width: 100%;
     text-align: center;
-    margin-top: 150px;
     margin-bottom: 150px;
     padding: 16px 0 16px 0;
     border: 2px solid red;
