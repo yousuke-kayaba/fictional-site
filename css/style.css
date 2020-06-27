@@ -89,6 +89,7 @@ header{
 .tel {
     width: 100%;
     text-align: center;
+    margin-top: 150px;
     margin-bottom: 150px;
     padding: 16px 0 16px 0;
     border: 2px solid red;
